@@ -1,4 +1,6 @@
 ## Coconut Tech GitHub
+Welcome to my README!
+## About me
 Hey there! I'm Coconut Tech and my real name is Mason. 
 I like tech, gaming, coding, sports, working out and talking. 
 Coding Lanugages I know: 
@@ -27,4 +29,5 @@ My other account (@realthrottle) Holds my Throttle website. Here are the GitHub 
 <br>
 ![realthrottle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realthrottle&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 <br>
+## End
 Anyways, thank you for looking at my README. Cya!
