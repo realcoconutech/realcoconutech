@@ -18,6 +18,7 @@ I know, not very good. I make websites (for now) soon I'll be making desktop app
 <br>
 ![realcoconutech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realcoconutech&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 <br>
+## Throttle GitHub stats
 My other account (@realthrottle) Holds my Throttle website. Here are the GitHub stats for that account.
 <br>
 ![realthrottle's Stats](https://github-readme-stats.vercel.app/api?username=realthrottle&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
