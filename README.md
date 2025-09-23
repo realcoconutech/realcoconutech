@@ -18,6 +18,7 @@ Coding Lanugages I'm learning:
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="90" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="90" width="auto">
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg" height="90" width="auto">
 ## GitHub Stats
 I know, not very good. I make websites (for now) soon I'll be making desktop apps. So I can post stuff on GitHub that people will actually look at... maybe.
 <br>
