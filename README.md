@@ -5,7 +5,7 @@ Hey there! I'm Coconut Tech and my real name is Mason.
 <br>
 I own Throttle (throttle.org.uk)
 <br>
-<img src="https://raw.githubusercontent.com/realthrottle/throttle.org.uk/refs/heads/main/images/no_background_throttle.png" height="90" width="auto">
+<a href="throttle.org.uk"><img src="https://raw.githubusercontent.com/realthrottle/throttle.org.uk/refs/heads/main/images/no_background_throttle.png" height="90" width="auto"></a>
 <br>
 I like tech, gaming, coding, sports, working out and talking. 
 <br>
