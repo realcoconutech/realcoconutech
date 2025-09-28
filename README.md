@@ -23,20 +23,20 @@ Coding Lanugages I'm learning:
 ## GitHub Stats
 I know, not very good. I make websites (for now) soon I'll be making desktop apps. So I can post stuff on GitHub that people will actually look at... maybe.
 <br>
-![realcoconutech's Stats](https://github-readme-stats.vercel.app/api?username=realcoconutech&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![realcoconutech's Stats](https://github-readme-stats.vercel.app/api?username=realcoconutech&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&cache_seconds=1800)
 <br>
-![realcoconutech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=realcoconutech&theme=vue-dark&hide_border=false)
+![realcoconutech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=realcoconutech&theme=vue-dark&hide_border=false&cache_seconds=1800)
 <br>
-![realcoconutech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realcoconutech&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![realcoconutech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realcoconutech&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800)
 <br>
 ## Throttle GitHub stats
 My other account (@realthrottle) Holds my Throttle website. Here are the GitHub stats for that account.
 <br>
-![realthrottle's Stats](https://github-readme-stats.vercel.app/api?username=realthrottle&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![realthrottle's Stats](https://github-readme-stats.vercel.app/api?username=realthrottle&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&cache_seconds=1800)
 <br>
-![realthrottle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=realthrottle&theme=vue-dark&hide_border=false)
+![realthrottle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=realthrottle&theme=vue-dark&hide_border=false&cache_seconds=1800)
 <br>
-![realthrottle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realthrottle&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![realthrottle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realthrottle&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800)
 <br>
 ## End
 Anyways, thank you for looking at my README. Cya!
