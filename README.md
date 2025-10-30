@@ -1,8 +1,12 @@
 <a href="https://coconutech.co.uk"><img src="https://avatars.githubusercontent.com/u/210167930" height="90" width="auto"></a>
-## Coconut Tech GitHub
+# Coconut Tech GitHub
 Welcome to my README!
 ## About me
 Hey there! I'm Coconut Tech and my real name is Mason.
+<br>
+Currently, Coconut Tech is an independent developer studio that works with tech to make mini apps/utilites and experiments in technology.
+<br>
+Also, Coconut Tech is gathering new ideas for the future. You can recommend some through social links on my GitHub profile!
 <br>
 I own Throttle (throttle.org.uk)
 <br>
