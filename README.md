@@ -42,7 +42,7 @@ My other account (@realthrottle) Holds my Throttle website. Here are the GitHub 
 <br>
 ![realthrottle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realthrottle&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800)
 <br>
-### Branding Notice
+## Branding Notice
 © 2025 Coconut Tech. All rights reserved.
 <br>
 Coconut Tech™ is a trademark of Coconut Tech.
