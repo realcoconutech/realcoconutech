@@ -14,12 +14,12 @@ I own Throttle (throttle.org.uk)
 <br>
 I like tech, gaming, coding, sports, working out and talking. 
 <br>
-Coding Lanugages I know: 
+Coding Languages I know: 
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="90" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="90" width="auto">
 <br>
-Coding Lanugages I'm learning:
+Coding Languages I'm learning:
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="90" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="90" width="auto">
@@ -42,5 +42,11 @@ My other account (@realthrottle) Holds my Throttle website. Here are the GitHub 
 <br>
 ![realthrottle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realthrottle&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800)
 <br>
+### Branding Notice
+© 2025 Coconut Tech. All rights reserved.
+<br>
+Coconut Tech™ is a trademark of Coconut Tech.
+<br>
+The names, logo, site wording, and branding may **not** be use without written permission.
 ## End
 Anyways, thank you for looking at my README. Cya!
