@@ -47,6 +47,6 @@ My other account (@realthrottle) Holds my Throttle website. Here are the GitHub 
 <br>
 Coconut Tech™ is a trademark of Coconut Tech.
 <br>
-The names, logo, site wording, and branding may **not** be use without written permission.
+The names, site wording and branding may **not** be use without written permission.
 ## End
 Anyways, thank you for looking at my README. Cya!
