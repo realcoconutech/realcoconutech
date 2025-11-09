@@ -27,20 +27,20 @@ Coding Languages I'm learning:
 ## GitHub Stats
 I know, not very good. I make websites (for now) soon I'll be making desktop apps. So I can post stuff on GitHub that people will actually look at... maybe.
 <br>
-![realcoconutech's Stats](https://github-readme-stats.vercel.app/api?username=realcoconutech&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&cache_seconds=1800)
+![realcoconutech's Stats](https://github-readme-stats.vercel.app/api?username=realcoconutech&theme=dark&show_icons=true&hide_border=false&count_private=true)
 <br>
-![realcoconutech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=realcoconutech&theme=vue-dark&hide_border=false&cache_seconds=1800)
+![realcoconutech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=realcoconutech&theme=dark&hide_border=false)
 <br>
-![realcoconutech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realcoconutech&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800)
+![realcoconutech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realcoconutech&theme=dark&show_icons=true&hide_border=false&layout=compact)
 <br>
 ## Throttle GitHub stats
-My other account (@realthrottle) Holds my Throttle website. Here are the GitHub stats for that account.
+My other account (@realthrottle) holds my Throttle website. Here are the GitHub stats for that account.
 <br>
-![realthrottle's Stats](https://github-readme-stats.vercel.app/api?username=realthrottle&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&cache_seconds=1800)
+![realthrottle's Stats](https://github-readme-stats.vercel.app/api?username=realthrottle&theme=dark&show_icons=true&hide_border=false&count_private=true)
 <br>
-![realthrottle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=realthrottle&theme=vue-dark&hide_border=false&cache_seconds=1800)
+![realthrottle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=realthrottle&theme=dark&hide_border=false)
 <br>
-![realthrottle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realthrottle&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800)
+![realthrottle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realthrottle&theme=dark&show_icons=true&hide_border=false&layout=compact)
 <br>
 ## Branding Notice
 © 2025 Coconut Tech. All rights reserved.
