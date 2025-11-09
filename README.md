@@ -1,4 +1,4 @@
-<a href="https://coconutech.co.uk"><img src="https://avatars.githubusercontent.com/u/210167930" height="90" width="auto"></a>
+<a href="https://coconutech.co.uk"><img src="https://raw.githubusercontent.com/realcoconutech/coconutech.co.uk/refs/heads/main/assets/logo.png" height="90" width="auto"></a>
 # Coconut Tech GitHub
 Welcome to my README!
 ## About me
@@ -47,6 +47,6 @@ My other account (@realthrottle) Holds my Throttle website. Here are the GitHub 
 <br>
 Coconut Tech™ is a trademark of Coconut Tech.
 <br>
-The names, site wording and branding may **not** be use without written permission.
+The names, logo, site wording and branding may **not** be use without written permission.
 ## End
 Anyways, thank you for looking at my README. Cya!
